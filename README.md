@@ -7,8 +7,7 @@
 
 ##Setup
 
-([Install Python :](https://www.python.org/downloads/))
-
+Install Python [disini](https://www.python.org/downloads/)
 
 Lakukan Clone repositori menggunakan git atau terminal :
 ```bash
