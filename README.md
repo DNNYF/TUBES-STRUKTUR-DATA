@@ -1,4 +1,4 @@
-#ANGGOTA KELOMPOK
+# Stable Diffusion web UI
 
 - Denny Firmansyah S (2203067)
 - Mohamad Rifqi Maulana (2203079)
