@@ -1,11 +1,11 @@
-# Stable Diffusion web UI
+# Nama Anggota
 
 - Denny Firmansyah S (2203067)
 - Mohamad Rifqi Maulana (2203079)
 -
 
 
-##Setup
+## Setup
 
 Install Python [disini](https://www.python.org/downloads/)
 
