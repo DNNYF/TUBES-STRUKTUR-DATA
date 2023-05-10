@@ -2,12 +2,13 @@
 
 - Denny Firmansyah S (2203067)
 - Mohamad Rifqi Maulana (2203079)
--
+- Sulthan Rifqi Anandyto (2203087)
+- 
 
 
 ## Setup
 
-Install Python [disini](https://www.python.org/downloads/)
+Install Python v3.9.10 [disini](https://www.python.org/downloads/)
 
 Lakukan Clone repositori menggunakan git atau terminal :
 ```bash
