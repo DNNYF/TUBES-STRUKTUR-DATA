@@ -30,6 +30,6 @@ while True:
 streams = yt.streams.filter(progressive=True).order_by('resolution').desc()
 res = streams[pilihan_res - 1].resolution
 print("Sedang mendownload video dengan resolusi ", res)
-streams[pilihan_res - 1].download("C:\\Users\\ASUS\\OneDrive\\Dokumen\\COCODING\\PHY\\TUGAS BESAR\\OUTPUT")
+streams[pilihan_res - 1].download("C:\\Users\\ASUS\\OneDrive\\Dokumen\\COCODING\\PHY\\TUGAS BESAR") ## gunakan ("C:\\contoh") bukan ("C:\contoh")
 
 print("Download selesai!")
