@@ -3,7 +3,7 @@
 - Ade Hermawan (2203061)
 - Bima Syahputra (2203065)
 - Denny Firmansyah S (2203067)
-- Farhan febrianto (2203070)
+- Farhan Febrianto (2203070)
 - Mochamad Rizky Maulana 2203077
 - Mohamad Rifqi Maulana (2203079)
 - Sulthan Rifqi Anandyto (2203087)
