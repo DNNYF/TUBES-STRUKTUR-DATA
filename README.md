@@ -49,10 +49,10 @@ streamlit run YTD_GUI.py
 
 1. YTD_CLI.py
 ```bash
-https://youtu.be/Dp_gPGFhNlE
+(https://youtu.be/Dp_gPGFhNlE)
 ```
 
 2. YTD_GUI
 ```bash
-https://youtu.be/nMtTiBeZ1Oc
+(https://youtu.be/nMtTiBeZ1Oc)
 ```
