@@ -16,6 +16,7 @@ git clone https://github.com/DNNYF/TUBES-STRUKTUR-DATA.git
 ```
 
 Kemudian kntuk menjalankan program ini, pastikan sudah melakukan instalasi beberapa package yang dibutuhkan dengan menggunakan command berikut pada terminal atau command prompt:
+
 ```bash
 pip install --upgrade pip
 pip install pyarrow
@@ -23,13 +24,19 @@ pip install pytube
 pip install pandas
 ```
 
-Program dapat dijalankan dengan menggunakan command berikut pada terminal atau command prompt:
+Pastikan semua modul yang dibutuhkan sudah terinstall kemudian masuk kedalam folder hasil clone terlebih dahulu.
+Program dapat dijalankan dengan menggunakan command berikut pada terminal atau command prompt :
+
+
 1. YTD_CLI.py
 ```bash
-streamlit run YTD_CLI.py/YTD_GUI.py
+Klik 'Run Code' pada VS code
 ```
 
 2. YTD_GUI.py
 ```bash
 streamlit run YTD_GUI.py
 ```
+
+
+## Demo Aplikasi

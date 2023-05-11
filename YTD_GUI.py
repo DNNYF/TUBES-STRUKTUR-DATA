@@ -15,7 +15,7 @@ def download_video(url, resolusi):
     video = youtube.streams.filter(res=resolusi, progressive=True).order_by('resolution').desc().first()
     
     # Menentukan direktori tempat penyimpanan video yang akan diunduh
-    direktori_download = r"C:\Users\ASUS\OneDrive\Dokumen\COCODING\PHY\TUGAS BESAR\OUTPUT"
+    direktori_download = r"C:\Users\ASUS\OneDrive\Dokumen\COCODING\PHY\TUGAS BESAR\OUTPUT" 
     
     # Menentukan nama file yang akan diunduh
     nama_file = video.download(direktori_download)
