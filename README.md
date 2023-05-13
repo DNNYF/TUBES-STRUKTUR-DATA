@@ -25,6 +25,11 @@ Jika sudah memasang python, pastikan pip berada di versi terbaru menggunakan pro
 pip install --upgrade pip
 ```
 
+Install modul streamlit untuk dapat membuka YTD_GUI.py.
+```bash
+pip install streamlit
+```
+
 Kemudian pasang paket pytube untuk dapat mengunduh video dari YouTube
 ```bash
 pip install pytube
