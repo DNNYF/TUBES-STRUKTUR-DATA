@@ -1,4 +1,6 @@
-# Nama Anggota
+# Downloader Video For YouTube
+
+## Nama Anggota
 
 - Ade Hermawan (2203061)
 - Bima Syahputra (2203065)
@@ -21,14 +23,14 @@ Jika sudah memasang python, pastikan pip berada di versi terbaru menggunakan pro
 pip install --upgrade pip
 ```
 
-Install modul streamlit untuk dapat membuka YTD_GUI.py.
-```bash
-pip install streamlit
-```
-
 Kemudian pasang paket pytube untuk dapat mengunduh video dari YouTube
 ```bash
 pip install pytube
+```
+
+Untuk menjalankan versi GUI, anda harus memasang modul streamlit :
+```bash
+pip install streamlit
 ```
 
 ## Installation and Running
@@ -38,7 +40,7 @@ Lakukan Clone repositori menggunakan git atau terminal di folder yang diinginkan
 git clone https://github.com/DNNYF/TUBES-STRUKTUR-DATA.git
 
 ```
-Pastikan semua requirement yang dibutuhkan sudah terinstall kemudian buka folder "TUGAS BESAR" di VScode.
+Pastikan semua requirement yang dibutuhkan sudah terinstall kemudian buka folder "TUBES-STRUKTUR-DATA" di VScode.
 Program dapat dijalankan dengan menggunakan command berikut pada terminal atau command prompt :
 
 
